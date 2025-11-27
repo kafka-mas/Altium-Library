@@ -19,7 +19,7 @@ LibrarySearchPath=
 OrcadMultiValueDelimiter=,
 SearchSubDirectories=0
 SchemaName=
-LastFocusedTable=Capasitors_0805
+LastFocusedTable=Resistors_0805
 [Table1]
 SchemaName=
 TableName=Buzzers
@@ -38,9 +38,6 @@ TableName=Capasitors_0805
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Part Number0=149|Library Ref0=77|Library Path0=123|Footprint Ref0=92|Footprint Path0=166|Footprint Ref 20=101|Footprint Path 20=107|Description0=425|ValueDescription0=363|ValueManufacturer0=122|ValueType0=77|Case0=47|Link0=580|Tolerance0=73|EffectiveValue0=95|Voltage0=63|Temp0=51
 [Table4]
 SchemaName=
 TableName=Connectors
@@ -125,6 +122,9 @@ TableName=Resistors_0805
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Part Number0=105|Library Ref0=77|Library Path0=115|Footprint Ref0=92|Footprint Path0=113|Footprint Ref 20=101|Footprint Path 20=107|Description0=82|ValueDescription0=355|ValueManufacturer0=122|ValueType0=76|Case0=47|Link0=451|Power0=55|Tolerance0=73|EffectiveValue0=95|Voltage0=63|Temp0=51
 [Table18]
 SchemaName=
 TableName=Switches
